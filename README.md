@@ -1,4 +1,5 @@
 **Part 3: Analysis (10 points)**
+
 In a file readme.md analyze your results. Generate 5 runs of the height experiment and put your results into this file. We know from class that the best case height is log2(n) and worst case is n. You are going to try to make a tighter estimate.
 Come up with a formula that describes the heights you got in the random experiments. Try to get a reasonably tight range. You do not have to be perfect.
 Something like:
@@ -6,6 +7,8 @@ Something like:
 log2(n) < average height < log2(n)+5
 7log2(n) < average height < 9log2(n)
 etc...
+
+
 ## Height Experiments Results
 ## Combined Results from All Experiments
 
