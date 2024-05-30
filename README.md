@@ -9,7 +9,7 @@ log2(n) < average height < log2(n)+5
 etc...
 
 
-## Height Experiments Results
+**Height Experiments Results**
 
 |   N  | Run 1 Avg | Run 2 Avg | Run 3 Avg | Run 4 Avg | Run 5 Avg | 
 |------|-----------|-----------|-----------|-----------|-----------|
